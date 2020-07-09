@@ -4,8 +4,6 @@
 
 ### Hi, my name is Ezequiel. 
 
-![](https://raw.githubusercontent.com/ezefranca/ezefranca.github.io/master/img/profile.gif)
-
 I'm a Software Developer focused in mobile development. Currently I work with as developer advocating and mobile development, I am a game developer pursuing my Master Degree in Digital Games Development.
 
 Interests in research and project development envolving mobile (development and ux), digital education, machine learning, games development, maker culture, electronics, internet of things, arduino, raspberry pi, mechatronics, mHealth, veganism.
