@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ezefranca?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ezefranca?style=flat-square)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2773779?style=flat-square)
+![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/2773779)
 
 ### Hi, my name is Ezequiel. 
 
