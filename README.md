@@ -10,7 +10,7 @@
 
 ### Hi, my name is Ezequiel. 
 
-I'm a Software Developer focused in mobile development. Currently I work with as developer advocating and mobile development, I am a game developer pursuing my Master Degree in Digital Games Development.
+I'm a software developer focused in mobile development. Currently I work with as developer advocating and mobile development, I am a game developer pursuing my master degree in digital games development.
 
 Interests in research and project development envolving mobile (development and ux), digital education, machine learning, games development, maker culture, electronics, internet of things, arduino, raspberry pi, mechatronics, mHealth, veganism.
 
