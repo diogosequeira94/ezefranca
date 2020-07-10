@@ -8,4 +8,6 @@ I'm a Software Developer focused in mobile development. Currently I work with as
 
 Interests in research and project development envolving mobile (development and ux), digital education, machine learning, games development, maker culture, electronics, internet of things, arduino, raspberry pi, mechatronics, mHealth, veganism.
 
+[CV (Portuguese)](https://ezefranca.github.io/curriculo/) 
 🌐 [https://ezequiel.app/](https://ezequiel.app/)
+
