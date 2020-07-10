@@ -10,7 +10,7 @@
 
 Meu nome é Ezequiel França, curly hair creative technologist, desenvolvedor de software, educador e maker, sempre trabalhando para criar a melhor experiência ao usuário considerando todos os aspectos de ergonomia, usabilidade e ciclo de vida de um software.  
 
-Desenvolvedor Mobile e Tech Advocate, Mestrando em desenvolvimento de jogos digitais na PUC-SP. Interesses de pesquisa e projetos em desenvolvimento mobile, educação digital, ensino de computação, computação ubíqua, machine learning, desenvolvimento de jogos, cultura maker, eletrônica, internet of things, arduino, raspberry pi, veganismo, mecatrônica, mHealth entre outros.
+Trabalho como desenvolvedor mobile e tech Advocate, além de ser mestrando em desenvolvimento de jogos digitais na **PUC-SP**. Interesses de pesquisa e projetos em desenvolvimento mobile, educação digital, ensino de computação, computação ubíqua, machine learning, desenvolvimento de jogos, cultura maker, eletrônica, internet of things, arduino, raspberry pi, veganismo, mecatrônica, mHealth entre outros.
 
 
 📃 [currrículo](https://ezefranca.github.io/curriculo/) 
