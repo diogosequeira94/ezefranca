@@ -7,18 +7,18 @@
 </div>
 
 
-<h2> Olá 👋, meu nome é Ezequiel França!</h2>
+<h2> Olá 👋, meu nome é e<b>Ezequiel</b> França! 🇫🇷</h2>
 <img align='right' src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/MOSHED-2020-7-15-20-38-26.gif" width="130">
 <p><em>curly hair creative technologist</em></p>
 
 
 Desenvolvedor de software, educador e maker, sempre trabalhando para criar a melhor experiência ao usuário considerando todos os aspectos de ergonomia, usabilidade e ciclo de vida de um software.  
 
-Trabalho como desenvolvedor mobile 📱 e tech Advocate 🥑, ajudando desenvolvedores e comunidades. Faço plaquinhas, queimo circuitos, misturo linguagens (quem nunca), na área acadêmica já foi instrutor de pós-graduação (lab IoT), dei aulas de iOS em graduação, além de ser mestrando 🎓 em desenvolvimento de jogos digitais 🎮 <br><br>
+Trabalho como desenvolvedor mobile 📱 e tech advocate 🥑, ajudando desenvolvedores e comunidades. Faço plaquinhas, queimo circuitos, misturo linguagens (quem nunca), na área acadêmica já foi instrutor de pós-graduação (lab IoT), dei aulas de iOS em graduação, além de ser mestrando 🎓 em desenvolvimento de jogos digitais 🎮 <br><br>
 
 Interesses de pesquisa e projetos em desenvolvimento mobile, educação digital, ensino de computação, diversidade em tecnologia, computação ubíqua, machine learning, desenvolvimento de jogos, cultura maker, eletrônica, internet of things, arduino, raspberry pi, veganismo, mecatrônica, mHealth entre outros.
 
-Como posso te ajudar? 🤟
+🤟
 
 📃 [currrículo](https://ezefranca.github.io/curriculo/) |
 🌐 [site](https://ezequiel.app/)
