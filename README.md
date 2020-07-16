@@ -7,7 +7,7 @@
 </div>
 
 
-<h2> Olá 👋, meu nome é <b>Ezequiel</b> França!</h2>
+<h1> Olá 👋, meu nome é <b>Ezequiel</b> França dos Santos!</h1>
 <img align='right' src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/MOSHED-2020-7-15-20-38-26.gif" width="130">
 <p><em>curly hair creative technologist</em></p>
 
