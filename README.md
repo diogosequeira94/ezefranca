@@ -12,15 +12,15 @@
 <p>👨🏻‍🦱 <em>curly hair creative technologist</em></p>
 
 
-Desenvolvedor de software, educador e maker, sempre trabalhando para criar a melhor experiência, considerando todos os aspectos de ergonomia, usabilidade, pessoas e ciclo de vida de um software.  
+Desenvolvedor de software, educador e maker, sempre trabalhando para criar a melhor experiência, considerando todos os aspectos de ergonomia, usabilidade, pessoas e ciclo de vida de um software. <br>
 
 📱🥑 - Trabalho como desenvolvedor mobile e tech advocate, ajudando pessoas desenvolvedoras e comunidades crescerem📈
 
-⚡️ 🔌 - Faço plaquinhas, queimo circuitos, misturo linguagens (quem nunca).
+⚡️🔌 - Faço plaquinhas, queimo circuitos, misturo linguagens (quem nunca).
 
-👨🏻‍🏫🏅 - Já foi [instrutor e dei aulas](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#experi%C3%AAncia-com-doc%C3%AAncia), além de ter palestrado em [alguns lugares](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#eventos-e-palestras) e participado de alguns [hackathons](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#pr%C3%AAmios-e-t%C3%ADtulos).
+👨🏻‍🏫🏅 - Já fui [instrutor e professor](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#experi%C3%AAncia-com-doc%C3%AAncia), além de ter palestrado em [alguns lugares](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#eventos-e-palestras) e participado de alguns [hackathons](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#pr%C3%AAmios-e-t%C3%ADtulos).
 
-🎓📚 - Sou graduado em análise de sistemas, especialista em engenharia de software e mestrando em desenvolvimento de jogos digitais 🎮 <br><br>
+🎓📚 - Sou mestrando em jogos digitais 🎮, especialista em engenharia de software e graduado em análise de sistemas. <br>
 
 Interesses de pesquisa e projetos em desenvolvimento mobile, educação digital, ensino de computação, diversidade em tecnologia, computação ubíqua, machine learning, desenvolvimento de jogos, cultura maker, eletrônica, internet of things, arduino, raspberry pi, veganismo, mecatrônica, mHealth entre outros.
 
