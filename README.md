@@ -12,7 +12,7 @@
 <p>👨🏻‍🦱 <em>curly hair creative technologist</em></p>
 
 
-Desenvolvedor de software, educador e maker, sempre trabalhando para criar a melhor experiência, considerando todos os aspectos de ergonomia, usabilidade, pessoas e ciclo de vida de um software. <br>
+Desenvolvedor de software, educador e maker, sempre trabalhando para criar a melhor experiência, considerando todos os aspectos de ergonomia, usabilidade, pessoas e ciclo de vida de um software. <br><br><br>
 
 📱🥑 - Trabalho como desenvolvedor mobile e tech advocate, ajudando pessoas desenvolvedoras e comunidades crescerem📈
 
