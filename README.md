@@ -21,7 +21,6 @@ Interests in research and project development envolving mobile (development and 
 
 🌐 [site](https://ezequiel.app/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezefranca&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=true" />
 
 
 
