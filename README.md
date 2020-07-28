@@ -8,8 +8,8 @@
 </div>
 
 
-# Hi 👋, my name is Ezequiel França dos Santos! 
-## 👨🏻‍🦱 (curly hair creative technologist)™ 
+## Hi 👋, my name is Ezequiel França dos Santos! 
+<b> 👨🏻‍🦱 (curly hair creative technologist)™ </b>
 
 - 📱🥑 I’m currently working as mobile developer and tech advocate, helping developers and communities grow-up. I've also been developing some side projects in web, mobile, games using unity3d and IoT / arduino stuff.
 - ⚡️ I’m always burning circuits, mixing progamming languages and trying to hack things.
