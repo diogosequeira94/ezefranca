@@ -11,7 +11,7 @@
 ## Hi 👋, my name is Ezequiel França dos Santos! 
 <b> 👨🏻‍🦱 (curly hair creative technologist)™ </b>
 
-- 📱🥑 I’m currently working as mobile developer and tech advocate, helping developers and communities grow-up. I've also been developing some side projects in web, mobile, games using unity3d and IoT / arduino stuff.
+- 📱🥑 I’m currently working as mobile developer and tech advocate, helping developers and communities grow-up. I've also been developing some side projects in web, mobile, games using unity3d, python/flask, reactjs and IoT / arduino stuff.
 - ⚡️ I’m always burning circuits, mixing progamming languages and trying to hack things.
 - 👨🏻‍🏫 Previosly, I was a instructor and professor in [iOS and IoT related courses](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#experi%C3%AAncia-com-doc%C3%AAncia) and also spoked [several times](https://github.com/ezefranca/ezefranca.github.io/blob/master/curriculo.md#eventos-e-palestras) in Brazil 
 - 🎓 I’m pursing my master degree in games development.
