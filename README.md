@@ -9,6 +9,7 @@
 
 
 ## Hi 👋, my name is Ezequiel França dos Santos! 
+
 <b> 👨🏻‍🦱 (curly hair creative technologist)™ </b>
 
 - 📱🥑 I’m currently working as mobile developer and tech advocate, helping developers and communities grow-up.
