@@ -1,5 +1,5 @@
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/octocat.png"/>
+<img align="right" width="250" src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/octocat2.png"/>
 </div>
 <a href="https://www.twitter.com/ezefranca" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.linkedin.com/in/ezefranca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
